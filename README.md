@@ -35,6 +35,9 @@ Extrae archivos .PAK compatibles mediante línea de comandos.
       2: Listar y extracción rápida: ExtraerPAK-CLI.exe "C:\Varios\varios.pak" Auto
       3: Listar y extracción en ruta: ExtraerPAK-CLI.exe "C:\Varios\varios.pak" "c:\MisFicheros\"
       
+ Nota: "ExtraerPAK-CLI.exe" se refiere a la versión release, ejemplo index.js: 
+ node index.js "C:\Varios\varios.pak" "c:\MisFicheros\"
+      
 # Esta aplicación utiliza:
 
 Offzip: Luigi Auriemma (me@aluigi.org):
