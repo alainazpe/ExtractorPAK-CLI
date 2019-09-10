@@ -25,7 +25,7 @@ Extrae archivos .PAK compatibles mediante línea de comandos.
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
   
-# ExtraerPAK v1.0 CLI https://github.com/alainazpe/ExtraerPAK-CLI
+# ExtraerPAK v1.1 CLI https://github.com/alainazpe/ExtraerPAK-CLI
 
    Uso: ExtraerPAK-CLI.exe "rutaArchivoPAK" "RutaExtracción"
 
